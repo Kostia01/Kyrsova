@@ -1,0 +1,12 @@
+﻿  KR_kyrsova.cpp
+C:\Users\Костя\source\repos\KR_kyrsova\KR_kyrsova\Strelka.h(41,29): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Костя\source\repos\KR_kyrsova\KR_kyrsova\Strelka.h(62,1): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Users\Костя\source\repos\KR_kyrsova\KR_kyrsova\Strelka.h(66,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Костя\source\repos\KR_kyrsova\KR_kyrsova\Strelka.h(159,24): warning C4101: lectors: неиспользованная локальная переменная
+  Strelka.cpp
+C:\Users\Костя\source\repos\KR_kyrsova\KR_kyrsova\Strelka.h(41,29): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Костя\source\repos\KR_kyrsova\KR_kyrsova\Strelka.h(62,1): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Users\Костя\source\repos\KR_kyrsova\KR_kyrsova\Strelka.h(66,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Костя\source\repos\KR_kyrsova\KR_kyrsova\Strelka.h(159,24): warning C4101: lectors: неиспользованная локальная переменная
+  Создание кода...
+LINK : fatal error LNK1168: не удается открыть C:\Users\Костя\source\repos\KR_kyrsova\Debug\KR_kyrsova.exe для записи

@@ -1,0 +1,68 @@
+
+<=============================>	
+Subject:MatAnaliz
+Date of lesson:20.06
+Time of lesson:12:45
+Type of lesson:PZ
+Place of lesson: Home
+------------------------------
+Group:ITY20-6,1,2,3,4,5,6
+Potok:Ity
+Number of student:22
+------------------------------
+Name Lector:Victor
+Surname:Ivanov
+Patronymic:Ivanov
+Position:Lector
+<=============================>	
+
+<=============================>	
+Subject:OOP
+Date of lesson:20.06
+Time of lesson:12:45
+Type of lesson:LB
+Place of lesson:  University
+------------------------------
+Group:ALL
+Potok:KN
+Number of student:160
+------------------------------
+Name Lector:Victoria
+Surname:Ivanova
+Patronymic:Ivanovna
+Position:Lector/Doctor Nayk
+<=============================>	
+
+<=============================>	
+Subject:ChM
+Date of lesson:20.07
+Time of lesson:13:45
+Type of lesson:Lc
+Place of lesson:  Home
+------------------------------
+Group:KNT-20-6,KNT-20-5
+Potok:KN
+Number of student:40
+------------------------------
+Name Lector:Victor
+Surname:Ivanov
+Patronymic:Ivanov
+Position:Lector
+<=============================>	
+
+<=============================>	
+Subject:OOP
+Date of lesson:01.10
+Time of lesson:14:20
+Type of lesson:PZ
+Place of lesson: home
+------------------------------
+Group:KNT-20-6
+Potok:KN
+Number of student:22
+------------------------------
+Name Lector:Victor
+Surname:Ivanov
+Patronymic:Ivanov
+Position:Lector
+<=============================>	
